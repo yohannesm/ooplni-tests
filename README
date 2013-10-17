@@ -1,0 +1,12 @@
+This repo is a fork of Glen Downings and completed in a C++ class at National Instruments
+## How I'm using this repo: ##
+
+#first get the original repo
+git clone https://github.com/gpdowning/ooplni-tests.git
+# (then go on to github and make a fork)
+#add a remote so you can push to your forked repo
+git remote add brians https://brianfactor@github.com/brianfactor/ooplni-tests.git
+#push to your new remote (the fork you created)
+git push brians master
+# (then go into the original repo's page on github and creat a pull request)
+
