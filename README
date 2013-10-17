@@ -10,3 +10,6 @@ git remote add brians https://brianfactor@github.com/brianfactor/ooplni-tests.gi
 git push brians master
 # (then go into the original repo's page on github and creat a pull request)
 
+This is Glenn.
+
+I think you just need to clone, pull, and then push. No fork needed.
