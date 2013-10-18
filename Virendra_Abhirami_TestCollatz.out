@@ -1,0 +1,28 @@
+[==========] Running 10 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 10 tests from Collatz
+[ RUN      ] Collatz.read
+[       OK ] Collatz.read (1 ms)
+[ RUN      ] Collatz.eval_1
+[       OK ] Collatz.eval_1 (0 ms)
+[ RUN      ] Collatz.eval_2
+[       OK ] Collatz.eval_2 (0 ms)
+[ RUN      ] Collatz.eval_3
+[       OK ] Collatz.eval_3 (0 ms)
+[ RUN      ] Collatz.eval_4
+[       OK ] Collatz.eval_4 (0 ms)
+[ RUN      ] Collatz.eval_5
+[       OK ] Collatz.eval_5 (95 ms)
+[ RUN      ] Collatz.halfrule
+[       OK ] Collatz.halfrule (1 ms)
+[ RUN      ] Collatz.fliptest
+[       OK ] Collatz.fliptest (0 ms)
+[ RUN      ] Collatz.print
+[       OK ] Collatz.print (0 ms)
+[ RUN      ] Collatz.solve
+[       OK ] Collatz.solve (0 ms)
+[----------] 10 tests from Collatz (97 ms total)
+
+[----------] Global test environment tear-down
+[==========] 10 tests from 1 test case ran. (97 ms total)
+[  PASSED  ] 10 tests.
